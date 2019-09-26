@@ -1,0 +1,119 @@
+.content-page{
+  /* padding: 20px;
+  margin : 20px 20px; */
+  background: #fff6f2;
+}
+.content-row{
+  /* padding : 10px 0 0 10px; */
+}
+#homepage{
+  padding-top: 30px;
+}
+.menu-row{
+  margin-bottom:20px;
+}
+nav li{
+  list-style-type: none;
+}
+.logo{
+  margin-bottom: 50px;
+}
+.logo img{
+  width: 150px;
+  margin-bottom: 30px;
+}
+
+nav{
+  margin-bottom: 100px;
+
+}
+.company{
+  margin-top: 20px;
+  padding: 30px;
+  color: white;
+  background-color: #510180;
+}
+.contact-form{
+  background-color: #de5907;
+}
+.menu-row{
+  background-color: #510180;
+  padding: 5px;
+  text-align: center;
+}
+.menu-row:hover{
+  background-color: #de5907;
+
+}
+.input-track{
+  padding: 10px;
+  padding-left: ;
+  padding-right: ;
+  font-weight: bold;
+}
+.btn-track{
+  padding: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #de5907;
+  color: white;
+  font-weight: bold;
+}
+.track-section{
+  text-align: center;
+}
+.track-section i{
+  padding: 20px;
+  background-color: #510180;
+  font-size: 50px;
+  opacity: 0.5;
+  color: white;
+
+}
+#active{
+  padding: 40px;
+  background-color: #de5907;
+  font-size: 50px;
+  color: white;
+  opacity: 1;
+}
+.content-section{
+  padding-top: 50px;
+  text-align: center;
+  /* background-image: url("img/fedexbg.jpg");
+  background-size: cover; */
+
+}
+.row-content{
+  padding-left: 100px;
+}
+.stories-section{
+  padding-top:100px;
+}
+.footer-content li{
+  list-style-type: none;
+
+}
+.footer-content a{
+  color:black;
+  text-decoration: none;
+}
+.footer-content{
+  padding: 20px;
+  margin-top: 100px;
+  background-color: ;
+  color:#510180;
+}
+.ourcompany{
+  margin-left: 40px;
+}
+hr{
+  border-top: 1px solid;
+}
+.sosmed p {
+  color: #510180;
+  font-weight: bold;
+}
+.sosmed i {
+  color: black;
+}
